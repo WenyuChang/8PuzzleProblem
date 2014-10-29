@@ -1,7 +1,0 @@
-
-编译运行说明：
-1.若编译成功却不能运行，请修改工程的设置
-(Project\Setttings\Debug子项)
-2.改变程序中MaxItem的值(本程序中MaxItem等于3）
-和相关的输入用对话框，则可以计算MaxItem*MaxItem-1
-数码问题
